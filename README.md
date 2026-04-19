@@ -130,10 +130,6 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 
 ---
 
-## 📸 Screenshots
-
-(Add your project screenshots here like login, dashboard, etc.)
-
 ---
 
 ## 🔮 Future Enhancements
